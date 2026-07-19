@@ -9,9 +9,6 @@ The Detailed Dashboard page enables deeper analysis with a multi-level pivot tab
 **Skills demonstrated:** Data modeling & relationships, DAX measures, multi-page report design, advanced Power BI visuals (decomposition tree, matrix/pivot table), interactive filtering, dashboard UX for both executive and analyst audiences.
 
 Want me to also write a shorter one-liner version for a portfolio card/thumbnail, or tailor this for a specific platform like LinkedIn?
-*
-*
-*
 
 <img width="1919" height="1016" alt="Screenshot 2026-07-19 121021" src="https://github.com/user-attachments/assets/edaa4c00-431d-42cc-82b8-09aaa75cd403" />
 
