@@ -1,4 +1,4 @@
-<img width="1919" height="1021" alt="Screenshot 2026-07-19 121058" src="https://github.com/user-attachments/assets/ac76be5a-edfb-45c3-a51b-dbec7a562a7f" />**E-Commerce Sales Dashboard — Power BI**
+**E-Commerce Sales Dashboard — Power BI**
 
 Designed a two-page interactive sales analytics dashboard in Power BI, structured around an Executive Summary and a Detailed Dashboard view. Built a relational data model connecting Customers, Orders, Order Items, Products, and a custom Date dimension, with DAX measures (Total Sales, Total Orders, Average Order Value, Customer Count) powering KPI cards and visuals throughout.
 
@@ -12,7 +12,9 @@ Want me to also write a shorter one-liner version for a portfolio card/thumbnail
 *
 *
 *
+
 <img width="1919" height="1016" alt="Screenshot 2026-07-19 121021" src="https://github.com/user-attachments/assets/edaa4c00-431d-42cc-82b8-09aaa75cd403" />
+
 *
 *
 <img width="1919" height="1021" alt="Screenshot 2026-07-19 121058" src="https://github.com/user-attachments/assets/945273fa-9458-4cea-b0fe-a370d62c8832" />
